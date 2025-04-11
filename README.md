@@ -18,7 +18,7 @@ A clean and responsive **Quiz Application** built using **HTML**, **CSS**, and *
 
 ## 🖥️ Demo
 
-🔗 [Live Demo](https://yourusername.github.io/Quiz-App/)  
+🔗 [Live Demo](https://rahul1998sys.github.io/Quiz-App/)  
 *(Replace with your actual GitHub Pages link)*
 
 ---
