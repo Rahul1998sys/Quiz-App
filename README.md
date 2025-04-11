@@ -2,7 +2,7 @@
 
 A clean and responsive **Quiz Application** built using **HTML**, **CSS**, and **JavaScript**. This app helps users test their knowledge through a series of multiple-choice questions — with instant score feedback!
 
-![Quiz App Banner](https://via.placeholder.com/900x300.png?text=JavaScript+Quiz+App) <!-- Replace with your actual screenshot or banner -->
+![Quiz App Banner](https://rahul1998sys.github.io/Quiz-App/) <!-- Replace with your actual screenshot or banner -->
 
 ---
 
